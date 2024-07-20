@@ -1,0 +1,1 @@
+This a project to create a bloggin app that shows a user's username, title and Content. The app will keep a history of posts and have a "posted by" title at the bottom of the page. There will be a back button to move back and create multiple posts. There will also be a button to change the background color from dark to light, etc. 
